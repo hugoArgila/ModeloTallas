@@ -1,0 +1,900 @@
+ID_Usuario,Tipo_Prenda,Marca,Medida_Pecho_cm,Medida_Cintura_cm,Medida_Cadera_cm,Altura_cm,Peso_kg,Edad,Talla_Ropa_General,Talla_Zapatillas,Talla_Pantalones,Feedback_Ajuste
+1,Camiseta,Zara,92,78,94,170,65,28,M,N/A,N/A,Perfecto
+2,Pantalón,Levi's,N/A,88,102,175,78,35,N/A,N/A,32x32,Perfecto
+3,Vestido,H&M,88,72,90,165,58,22,S,N/A,N/A,Perfecto
+4,Zapatillas,Nike,N/A,N/A,N/A,180,85,30,N/A,44 EU,N/A,Demasiado ajustado
+5,Camiseta,Hugo Boss,96,80,98,172,70,45,L,N/A,N/A,Demasiado grande
+6,Pantalón,Dockers,N/A,95,108,185,90,40,N/A,N/A,36x32,Perfecto
+7,Vestido,Mango,85,68,88,160,55,20,M,N/A,N/A,Demasiado grande
+8,Zapatillas,Clarks,N/A,N/A,N/A,178,75,50,N/A,41 EU,N/A,Demasiado ajustado
+9,Camiseta,Springfield,90,75,92,168,62,25,M,N/A,N/A,Perfecto
+10,Pantalón,Adidas,N/A,90,104,176,80,33,L,N/A,N/A,Perfecto
+11,Vestido,Zara,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+12,Zapatillas,Puma,N/A,N/A,N/A,183,88,29,N/A,45 EU,N/A,Perfecto
+13,Camiseta,Ralph Lauren,94,79,96,171,68,38,S,N/A,N/A,Demasiado ajustada
+14,Pantalón,Massimo Dutti,N/A,83,99,174,72,42,40 ES,N/A,N/A,Perfecto
+15,Vestido,Pull&Bear,89,74,91,166,60,23,M,N/A,N/A,Demasiado grande
+16,Zapatillas,Dr. Martens,N/A,N/A,N/A,179,82,31,N/A,43 EU,N/A,Demasiado ajustado
+17,Camiseta,Levi's,91,76,93,169,63,26,M,N/A,N/A,Perfecto
+18,Pantalón,Nike,N/A,86,101,177,76,34,L,N/A,N/A,Perfecto
+19,Vestido,Women'secret,87,71,89,163,57,20,S,N/A,N/A,Perfecto
+20,Zapatillas,Vans,N/A,N/A,N/A,181,86,27,N/A,42 EU,N/A,Perfecto
+21,Camiseta,Springfield,93,77,95,170,66,24,S,N/A,N/A,Demasiado ajustada
+22,Pantalón,Zara,N/A,89,103,175,79,36,L,N/A,N/A,Perfecto
+23,Vestido,Mango,88,73,90,164,59,22,M,N/A,N/A,Demasiado grande
+24,Zapatillas,Guess,N/A,N/A,N/A,180,84,30,N/A,38 EU,N/A,Demasiado ajustado
+25,Camiseta,H&M,95,81,97,173,71,28,M,N/A,N/A,Perfecto
+26,Pantalón,Massimo Dutti,N/A,84,100,176,77,41,34 ES,N/A,N/A,Perfecto
+27,Vestido,Zara,89,74,91,167,61,25,S,N/A,N/A,Perfecto
+28,Zapatillas,Adidas,N/A,N/A,N/A,184,89,32,N/A,46 EU,N/A,Perfecto
+29,Camiseta,Springfield,90,75,92,168,64,23,S,N/A,N/A,Demasiado ajustada
+30,Pantalón,Mango,N/A,87,102,174,74,35,M,N/A,N/A,Perfecto
+31,Camiseta,Uniqlo,102,90,105,182,83,37,XL,N/A,N/A,Perfecto
+32,Pantalón,Zara Men,N/A,92,106,179,81,39,N/A,N/A,34x32,Perfecto
+33,Vestido,Bimba y Lola,91,75,93,167,60,26,M,N/A,N/A,Perfecto
+34,Zapatillas,New Balance,N/A,N/A,N/A,176,73,33,N/A,40 EU,N/A,Demasiado grande
+35,Camiseta,Tommy Hilfiger,98,84,100,175,72,40,L,N/A,N/A,Perfecto
+36,Pantalón,H&M Men,N/A,80,95,170,68,28,N/A,N/A,30x30,Demasiado ajustado
+37,Vestido,Desigual,95,78,97,172,64,31,L,N/A,N/A,Perfecto
+38,Zapatillas,Converse,N/A,N/A,N/A,188,95,29,N/A,46 EU,N/A,Perfecto
+39,Camiseta,Adidas,87,70,88,164,57,21,S,N/A,N/A,Demasiado grande
+40,Pantalón,Pull&Bear Men,N/A,85,100,173,70,30,N/A,N/A,32x30,Perfecto
+41,Vestido,Bershka,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+42,Zapatillas,Puma,N/A,N/A,N/A,174,69,26,N/A,39 EU,N/A,Perfecto
+43,Camiseta,Calvin Klein,105,92,108,185,88,42,XL,N/A,N/A,Perfecto
+44,Pantalón,Columbia,N/A,98,110,180,86,44,N/A,N/A,38x34,Perfecto
+45,Vestido,Stradivarius,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+46,Zapatillas,Reebok,N/A,N/A,N/A,177,75,32,N/A,41 EU,N/A,Demasiado ajustado
+47,Camiseta,Nike,100,88,102,178,79,35,L,N/A,N/A,Perfecto
+48,Pantalón,Springfield Men,N/A,82,97,169,67,27,N/A,N/A,31x30,Demasiado grande
+49,Vestido,Oysho,92,76,94,171,63,25,M,N/A,N/A,Perfecto
+50,Zapatillas,Vans,N/A,N/A,N/A,186,90,28,N/A,45 EU,N/A,Perfecto
+51,Camiseta,Zara,98,85,100,176,74,36,L,N/A,N/A,Perfecto
+52,Pantalón,Levi's,N/A,90,105,181,80,38,N/A,N/A,33x32,Perfecto
+53,Vestido,H&M,90,74,92,169,62,24,M,N/A,N/A,Perfecto
+54,Zapatillas,Nike,N/A,N/A,N/A,175,70,31,N/A,43 EU,N/A,Demasiado ajustado
+55,Camiseta,Hugo Boss,103,92,108,184,87,43,XL,N/A,N/A,Perfecto
+56,Pantalón,Dockers,N/A,88,102,173,75,30,N/A,N/A,32x30,Demasiado grande
+57,Vestido,Mango,87,70,90,162,56,21,S,N/A,N/A,Perfecto
+58,Zapatillas,Clarks,N/A,N/A,N/A,180,78,48,N/A,42 EU,N/A,Perfecto
+59,Camiseta,Springfield,95,80,97,172,69,27,L,N/A,N/A,Perfecto
+60,Pantalón,Adidas,N/A,94,109,178,82,34,N/A,N/A,34x32,Perfecto
+61,Vestido,Zara,93,77,95,170,64,26,M,N/A,N/A,Perfecto
+62,Zapatillas,Puma,N/A,N/A,N/A,182,85,29,N/A,44 EU,N/A,Perfecto
+63,Camiseta,Ralph Lauren,89,73,91,166,59,37,S,N/A,N/A,Demasiado ajustada
+64,Pantalón,Massimo Dutti,N/A,86,101,177,76,40,N/A,N/A,33x30,Perfecto
+65,Vestido,Pull&Bear,91,75,93,168,61,23,M,N/A,N/A,Perfecto
+66,Zapatillas,Dr. Martens,N/A,N/A,N/A,176,72,30,N/A,40 EU,N/A,Demasiado ajustado
+67,Camiseta,Levi's,101,89,104,179,80,35,XL,N/A,N/A,Perfecto
+68,Pantalón,Nike,N/A,81,96,170,66,28,N/A,N/A,30x32,Perfecto
+69,Vestido,Women'secret,85,68,88,160,55,20,S,N/A,N/A,Perfecto
+70,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,N/A,45 EU,N/A,Perfecto
+71,Camiseta,Uniqlo,94,79,96,171,68,29,M,N/A,N/A,Perfecto
+72,Pantalón,Zara Men,N/A,85,100,173,70,36,N/A,N/A,31x32,Demasiado ajustado
+73,Vestido,Bimba y Lola,87,71,89,163,57,22,S,N/A,N/A,Perfecto
+74,Zapatillas,New Balance,N/A,N/A,N/A,180,78,34,N/A,42 EU,N/A,Perfecto
+75,Camiseta,Tommy Hilfiger,100,86,102,177,76,41,L,N/A,N/A,Demasiado grande
+76,Pantalón,H&M Men,N/A,91,104,176,79,33,N/A,N/A,32x30,Perfecto
+77,Vestido,Desigual,89,74,91,166,60,25,M,N/A,N/A,Perfecto
+78,Zapatillas,Converse,N/A,N/A,N/A,183,88,30,N/A,44 EU,N/A,Perfecto
+79,Camiseta,Adidas,96,82,98,174,71,28,L,N/A,N/A,Perfecto
+80,Pantalón,Pull&Bear Men,N/A,83,98,172,69,26,N/A,N/A,30x32,Perfecto
+81,Vestido,Bershka,92,76,94,169,63,24,M,N/A,N/A,Perfecto
+82,Zapatillas,Puma,N/A,N/A,N/A,171,65,29,N/A,39 EU,N/A,Demasiado ajustado
+83,Camiseta,Calvin Klein,91,77,93,168,64,39,M,N/A,N/A,Demasiado grande
+84,Pantalón,Columbia,N/A,96,109,182,84,43,N/A,N/A,36x34,Perfecto
+85,Vestido,Stradivarius,88,72,90,165,58,21,S,N/A,N/A,Perfecto
+86,Zapatillas,Reebok,N/A,N/A,N/A,179,77,32,N/A,41 EU,N/A,Perfecto
+87,Camiseta,Nike,104,91,106,183,86,37,XL,N/A,N/A,Perfecto
+88,Pantalón,Springfield Men,N/A,87,102,175,73,30,N/A,N/A,32x30,Perfecto
+89,Vestido,Oysho,94,78,96,173,65,26,L,N/A,N/A,Perfecto
+90,Zapatillas,Vans,N/A,N/A,N/A,181,82,28,N/A,43 EU,N/A,Perfecto
+91,Camiseta,Zara,90,75,92,167,61,25,M,N/A,N/A,Perfecto
+92,Pantalón,Levi's,N/A,82,97,170,68,31,N/A,N/A,31x30,Demasiado ajustado
+93,Vestido,H&M,91,76,94,169,63,23,M,N/A,N/A,Perfecto
+94,Zapatillas,Nike,N/A,N/A,N/A,178,74,32,N/A,42 EU,N/A,Perfecto
+95,Camiseta,Hugo Boss,99,86,101,177,78,36,L,N/A,N/A,Perfecto
+96,Pantalón,Dockers,N/A,93,107,184,85,39,N/A,N/A,34x32,Demasiado grande
+97,Vestido,Mango,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+98,Zapatillas,Clarks,N/A,N/A,N/A,174,68,47,N/A,39 EU,N/A,Perfecto
+99,Camiseta,Springfield,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+100,Pantalón,Adidas,N/A,89,103,177,76,34,L,N/A,N/A,Demasiado ajustada
+101,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+102,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,N/A,43 EU,N/A,Perfecto
+103,Camiseta,Ralph Lauren,93,78,95,170,65,26,M,N/A,N/A,Perfecto
+104,Pantalón,Massimo Dutti,N/A,85,100,173,71,33,N/A,N/A,31x32,Perfecto
+105,Vestido,Pull&Bear,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+106,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,29,N/A,44 EU,N/A,Perfecto
+107,Camiseta,Levi's,100,87,102,178,77,35,L,N/A,N/A,Perfecto
+108,Pantalón,Nike,N/A,91,105,176,79,32,L,N/A,N/A,Demasiado ajustada
+109,Vestido,Women'secret,89,73,91,165,59,22,S,N/A,N/A,Perfecto
+110,Zapatillas,Vans,N/A,N/A,N/A,183,86,27,N/A,45 EU,N/A,Perfecto
+111,Camiseta,Springfield,96,82,98,174,69,28,L,N/A,N/A,Perfecto
+112,Pantalón,Zara,N/A,84,99,171,67,26,N/A,N/A,30x30,Perfecto
+113,Vestido,Mango,92,76,94,169,62,24,M,N/A,N/A,Perfecto
+114,Zapatillas,Guess,N/A,N/A,N/A,175,70,30,N/A,40 EU,N/A,Perfecto
+115,Camiseta,H&M,94,79,96,172,68,27,M,N/A,N/A,Perfecto
+116,Pantalón,Massimo Dutti,N/A,87,102,175,74,33,N/A,N/A,32x32,Perfecto
+117,Vestido,Zara,88,72,90,164,58,21,S,N/A,N/A,Perfecto
+118,Zapatillas,Adidas,N/A,N/A,N/A,180,82,29,N/A,43 EU,N/A,Perfecto
+119,Camiseta,Springfield,91,76,93,168,63,25,M,N/A,N/A,Demasiado ajustada
+120,Pantalón,Mango,N/A,90,104,177,78,34,M,N/A,N/A,Perfecto
+121,Vestido,Uniqlo,97,80,98,173,67,29,L,N/A,N/A,Perfecto
+122,Zapatillas,New Balance,N/A,N/A,N/A,181,84,31,N/A,44 EU,N/A,Perfecto
+123,Camiseta,Tommy Hilfiger,102,90,105,182,83,37,XL,N/A,N/A,Perfecto
+124,Pantalón,H&M Men,N/A,85,100,174,71,30,N/A,N/A,31x30,Perfecto
+125,Vestido,Desigual,89,74,91,166,60,25,M,N/A,N/A,Demasiado grande
+126,Zapatillas,Converse,N/A,N/A,N/A,179,77,29,N/A,42 EU,N/A,Perfecto
+127,Camiseta,Adidas,95,81,97,171,68,28,M,N/A,N/A,Perfecto
+128,Pantalón,Pull&Bear Men,N/A,92,106,178,80,35,N/A,N/A,34x32,Perfecto
+129,Vestido,Bershka,88,72,90,165,58,22,S,N/A,N/A,Perfecto
+130,Zapatillas,Puma,N/A,N/A,N/A,176,73,31,N/A,40 EU,N/A,Demasiado ajustado
+131,Camiseta,Calvin Klein,100,86,101,177,76,36,L,N/A,N/A,Perfecto
+132,Pantalón,Columbia,N/A,89,103,175,79,32,N/A,N/A,32x30,Perfecto
+133,Vestido,Stradivarius,90,75,92,168,61,25,M,N/A,N/A,Perfecto
+134,Zapatillas,Reebok,N/A,N/A,N/A,184,87,30,N/A,45 EU,N/A,Perfecto
+135,Camiseta,Nike,93,78,95,170,66,26,M,N/A,N/A,Demasiado ajustada
+136,Pantalón,Springfield Men,N/A,83,98,172,69,29,N/A,N/A,31x32,Perfecto
+137,Vestido,Oysho,91,76,94,169,63,24,M,N/A,N/A,Perfecto
+138,Zapatillas,Vans,N/A,N/A,N/A,186,90,28,N/A,46 EU,N/A,Perfecto
+139,Camiseta,Zara,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+140,Pantalón,Levi's,N/A,80,95,168,65,31,N/A,N/A,30x30,Demasiado grande
+141,Vestido,H&M,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+142,Zapatillas,Nike,N/A,N/A,N/A,173,69,26,N/A,39 EU,N/A,Perfecto
+143,Camiseta,Hugo Boss,105,92,108,185,88,40,XL,N/A,N/A,Perfecto
+144,Pantalón,Dockers,N/A,98,110,180,86,37,N/A,N/A,36x34,Perfecto
+145,Vestido,Mango,94,78,96,171,64,28,L,N/A,N/A,Perfecto
+146,Zapatillas,Clarks,N/A,N/A,N/A,178,75,32,N/A,41 EU,N/A,Demasiado ajustado
+147,Camiseta,Springfield,89,74,91,166,60,23,M,N/A,N/A,Perfecto
+148,Pantalón,Adidas,N/A,90,104,176,80,35,N/A,N/A,32x32,Perfecto
+149,Vestido,Zara,87,71,89,163,57,21,S,N/A,N/A,Perfecto
+150,Zapatillas,Puma,N/A,N/A,N/A,183,88,29,N/A,45 EU,N/A,Perfecto
+151,Camiseta,Uniqlo,99,85,100,177,75,30,L,N/A,N/A,Perfecto
+152,Pantalón,Zara Men,N/A,93,107,180,82,36,N/A,N/A,34x32,Perfecto
+153,Vestido,Bimba y Lola,91,75,93,167,60,25,M,N/A,N/A,Perfecto
+154,Zapatillas,New Balance,N/A,N/A,N/A,175,71,28,N/A,40 EU,N/A,Demasiado grande
+155,Camiseta,Tommy Hilfiger,94,79,96,171,68,33,M,N/A,N/A,Perfecto
+156,Pantalón,H&M Men,N/A,81,96,169,67,27,N/A,N/A,30x30,Demasiado ajustado
+157,Vestido,Desigual,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+158,Zapatillas,Converse,N/A,N/A,N/A,182,85,31,N/A,44 EU,N/A,Perfecto
+159,Camiseta,Adidas,101,88,103,179,79,35,L,N/A,N/A,Demasiado grande
+160,Pantalón,Pull&Bear Men,N/A,87,102,173,70,29,N/A,N/A,32x30,Perfecto
+161,Vestido,Bershka,85,68,88,160,55,20,S,N/A,N/A,Perfecto
+162,Zapatillas,Puma,N/A,N/A,N/A,178,75,30,N/A,41 EU,N/A,Demasiado ajustado
+163,Camiseta,Calvin Klein,104,91,106,183,86,41,XL,N/A,N/A,Perfecto
+164,Pantalón,Columbia,N/A,95,108,177,80,37,N/A,N/A,36x32,Perfecto
+165,Vestido,Stradivarius,88,72,90,165,58,22,S,N/A,N/A,Perfecto
+166,Zapatillas,Reebok,N/A,N/A,N/A,180,82,32,N/A,43 EU,N/A,Perfecto
+167,Camiseta,Nike,92,77,94,170,65,28,M,N/A,N/A,Perfecto
+168,Pantalón,Springfield Men,N/A,84,99,171,67,26,N/A,N/A,31x32,Demasiado grande
+169,Vestido,Oysho,90,75,92,168,61,25,M,N/A,N/A,Perfecto
+170,Zapatillas,Vans,N/A,N/A,N/A,184,87,30,N/A,45 EU,N/A,Perfecto
+171,Camiseta,Zara,96,82,98,174,69,27,L,N/A,N/A,Perfecto
+172,Pantalón,Levi's,N/A,89,103,176,76,34,N/A,N/A,32x32,Demasiado ajustado
+173,Vestido,H&M,93,77,95,170,64,24,M,N/A,N/A,Perfecto
+174,Zapatillas,Nike,N/A,N/A,N/A,175,70,29,N/A,40 EU,N/A,Perfecto
+175,Camiseta,Hugo Boss,100,86,101,177,78,35,L,N/A,N/A,Perfecto
+176,Pantalón,Dockers,N/A,91,105,181,80,38,N/A,N/A,33x32,Perfecto
+177,Vestido,Mango,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+178,Zapatillas,Clarks,N/A,N/A,N/A,178,75,49,N/A,42 EU,N/A,Perfecto
+179,Camiseta,Springfield,98,84,100,176,72,29,L,N/A,N/A,Perfecto
+180,Pantalón,Adidas,N/A,96,109,178,82,36,N/A,N/A,34x32,Perfecto
+181,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+182,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,N/A,43 EU,N/A,Perfecto
+183,Camiseta,Ralph Lauren,91,76,93,169,63,25,M,N/A,N/A,Perfecto
+184,Pantalón,Massimo Dutti,N/A,83,98,172,69,32,N/A,N/A,31x30,Perfecto
+185,Vestido,Pull&Bear,89,73,91,166,60,23,S,N/A,N/A,Demasiado ajustada
+186,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,31,N/A,44 EU,N/A,Perfecto
+187,Camiseta,Levi's,103,90,105,182,83,37,XL,N/A,N/A,Perfecto
+188,Pantalón,Nike,N/A,87,102,174,74,34,N/A,N/A,32x32,Perfecto
+189,Vestido,Women'secret,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+190,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,N/A,45 EU,N/A,Perfecto
+191,Camiseta,Springfield,94,79,96,171,68,26,M,N/A,N/A,Perfecto
+192,Pantalón,Zara,N/A,85,100,173,70,33,N/A,N/A,31x32,Demasiado grande
+193,Vestido,Mango,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+194,Zapatillas,Guess,N/A,N/A,N/A,176,73,30,N/A,40 EU,N/A,Perfecto
+195,Camiseta,H&M,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+196,Pantalón,Massimo Dutti,N/A,91,105,179,81,36,N/A,N/A,33x32,Perfecto
+197,Vestido,Zara,92,76,94,169,63,25,M,N/A,N/A,Perfecto
+198,Zapatillas,Adidas,N/A,N/A,N/A,184,87,32,N/A,46 EU,N/A,Perfecto
+199,Camiseta,Springfield,88,72,90,165,58,22,S,N/A,N/A,Demasiado ajustada
+200,Pantalón,Mango,N/A,80,95,170,68,31,N/A,N/A,30x30,Perfecto
+201,Camiseta,Uniqlo,105,92,108,185,88,38,XL,N/A,N/A,Perfecto
+202,Pantalón,Zara Men,N/A,95,109,183,86,40,N/A,N/A,36x34,Perfecto
+203,Vestido,Bimba y Lola,93,77,95,170,66,27,M,N/A,N/A,Perfecto
+204,Zapatillas,New Balance,N/A,N/A,N/A,177,75,31,N/A,41 EU,N/A,Demasiado ajustado
+205,Camiseta,Tommy Hilfiger,90,75,92,168,62,25,M,N/A,N/A,Perfecto
+206,Pantalón,H&M Men,N/A,82,97,169,67,28,N/A,N/A,30x32,Perfecto
+207,Vestido,Desigual,87,71,89,163,57,22,S,N/A,N/A,Perfecto
+208,Zapatillas,Converse,N/A,N/A,N/A,181,86,29,N/A,42 EU,N/A,Perfecto
+209,Camiseta,Adidas,98,84,100,176,72,30,L,N/A,N/A,Perfecto
+210,Pantalón,Pull&Bear Men,N/A,89,103,175,79,34,N/A,N/A,32x32,Demasiado grande
+211,Vestido,Bershka,95,79,97,172,66,26,M,N/A,N/A,Perfecto
+212,Zapatillas,Puma,N/A,N/A,N/A,180,81,32,N/A,43 EU,N/A,Perfecto
+213,Camiseta,Calvin Klein,92,78,94,170,65,28,M,N/A,N/A,Perfecto
+214,Pantalón,Columbia,N/A,85,100,173,71,33,N/A,N/A,31x32,Perfecto
+215,Vestido,Stradivarius,89,73,91,166,60,23,S,N/A,N/A,Demasiado ajustada
+216,Zapatillas,Reebok,N/A,N/A,N/A,183,88,31,N/A,44 EU,N/A,Perfecto
+217,Camiseta,Nike,101,88,103,179,79,35,L,N/A,N/A,Perfecto
+218,Pantalón,Springfield Men,N/A,91,105,176,76,34,N/A,N/A,33x32,Perfecto
+219,Vestido,Oysho,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+220,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,N/A,45 EU,N/A,Perfecto
+221,Camiseta,Zara,94,79,96,171,68,29,M,N/A,N/A,Perfecto
+222,Pantalón,Levi's,N/A,82,97,170,68,31,N/A,N/A,30x30,Demasiado grande
+223,Vestido,H&M,91,76,94,169,63,24,M,N/A,N/A,Perfecto
+224,Zapatillas,Nike,N/A,N/A,N/A,178,74,32,N/A,42 EU,N/A,Perfecto
+225,Camiseta,Hugo Boss,99,86,101,177,78,36,L,N/A,N/A,Perfecto
+226,Pantalón,Dockers,N/A,93,107,184,85,39,N/A,N/A,34x32,Perfecto
+227,Vestido,Mango,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+228,Zapatillas,Clarks,N/A,N/A,N/A,174,68,47,N/A,39 EU,N/A,Perfecto
+229,Camiseta,Springfield,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+230,Pantalón,Adidas,N/A,89,103,177,76,34,N/A,N/A,32x32,Demasiado ajustada
+231,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+232,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,N/A,43 EU,N/A,Perfecto
+233,Camiseta,Ralph Lauren,93,78,95,170,65,26,M,N/A,N/A,Perfecto
+234,Pantalón,Massimo Dutti,N/A,85,100,173,71,33,N/A,N/A,31x32,Perfecto
+235,Vestido,Pull&Bear,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+236,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,29,N/A,44 EU,N/A,Perfecto
+237,Camiseta,Levi's,100,87,102,178,77,35,L,N/A,N/A,Perfecto
+238,Pantalón,Nike,N/A,91,105,176,79,32,N/A,N/A,33x32,Demasiado ajustada
+239,Vestido,Women'secret,89,73,91,165,59,22,S,N/A,N/A,Perfecto
+240,Zapatillas,Vans,N/A,N/A,N/A,183,86,27,N/A,45 EU,N/A,Perfecto
+241,Camiseta,Springfield,96,82,98,174,69,28,L,N/A,N/A,Perfecto
+242,Pantalón,Zara,N/A,84,99,171,67,26,N/A,N/A,30x30,Perfecto
+243,Vestido,Mango,92,76,94,169,62,24,M,N/A,N/A,Perfecto
+244,Zapatillas,Guess,N/A,N/A,N/A,175,70,30,N/A,40 EU,N/A,Perfecto
+245,Camiseta,H&M,94,79,96,172,68,27,M,N/A,N/A,Perfecto
+246,Pantalón,Massimo Dutti,N/A,87,102,175,74,33,N/A,N/A,32x32,Perfecto
+247,Vestido,Zara,88,72,90,164,58,21,S,N/A,N/A,Perfecto
+248,Zapatillas,Adidas,N/A,N/A,N/A,180,82,29,N/A,43 EU,N/A,Perfecto
+249,Camiseta,Springfield,91,76,93,168,63,25,M,N/A,N/A,Demasiado ajustada
+250,Pantalón,Mango,N/A,90,104,177,78,34,M,N/A,N/A,Perfecto
+251,Camiseta,Uniqlo,95,80,97,172,69,28,M,N/A,N/A,Perfecto
+252,Pantalón,Zara Men,N/A,86,101,175,73,34,N/A,N/A,31x32,Perfecto
+253,Vestido,Bimba y Lola,90,74,92,168,61,23,M,N/A,N/A,Perfecto
+254,Zapatillas,New Balance,N/A,N/A,N/A,180,78,30,N/A,42 EU,N/A,Perfecto
+255,Camiseta,Tommy Hilfiger,103,90,105,182,83,37,XL,N/A,N/A,Perfecto
+256,Pantalón,H&M Men,N/A,85,100,174,71,30,N/A,N/A,32x30,Demasiado ajustado
+257,Vestido,Desigual,91,75,93,167,60,26,M,N/A,N/A,Perfecto
+258,Zapatillas,Converse,N/A,N/A,N/A,183,88,29,N/A,44 EU,N/A,Perfecto
+259,Camiseta,Adidas,88,72,90,165,58,22,S,N/A,N/A,Demasiado grande
+260,Pantalón,Pull&Bear Men,N/A,90,104,177,78,35,N/A,N/A,34x32,Perfecto
+261,Vestido,Bershka,87,71,89,163,57,21,S,N/A,N/A,Perfecto
+262,Zapatillas,Puma,N/A,N/A,N/A,176,73,26,N/A,40 EU,N/A,Perfecto
+263,Camiseta,Calvin Klein,98,84,100,176,72,39,L,N/A,N/A,Perfecto
+264,Pantalón,Columbia,N/A,92,106,179,81,42,N/A,N/A,34x32,Perfecto
+265,Vestido,Stradivarius,85,68,88,160,55,20,S,N/A,N/A,Perfecto
+266,Zapatillas,Reebok,N/A,N/A,N/A,179,77,31,N/A,41 EU,N/A,Demasiado ajustado
+267,Camiseta,Nike,96,82,98,174,71,35,L,N/A,N/A,Perfecto
+268,Pantalón,Springfield Men,N/A,87,102,175,73,30,N/A,N/A,32x30,Demasiado grande
+269,Vestido,Oysho,94,78,96,173,65,25,M,N/A,N/A,Perfecto
+270,Zapatillas,Vans,N/A,N/A,N/A,181,82,28,N/A,43 EU,N/A,Perfecto
+271,Camiseta,Zara,90,75,92,167,61,25,M,N/A,N/A,Perfecto
+272,Pantalón,Levi's,N/A,82,97,170,68,31,N/A,N/A,31x30,Demasiado ajustado
+273,Vestido,H&M,91,76,94,169,63,23,M,N/A,N/A,Perfecto
+274,Zapatillas,Nike,N/A,N/A,N/A,178,74,32,N/A,42 EU,N/A,Perfecto
+275,Camiseta,Hugo Boss,99,86,101,177,78,36,L,N/A,N/A,Perfecto
+276,Pantalón,Dockers,N/A,93,107,184,85,39,N/A,N/A,34x32,Demasiado grande
+277,Vestido,Mango,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+278,Zapatillas,Clarks,N/A,N/A,N/A,174,68,47,N/A,39 EU,N/A,Perfecto
+279,Camiseta,Springfield,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+280,Pantalón,Adidas,N/A,89,103,177,76,34,N/A,N/A,32x32,Demasiado ajustada
+281,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+282,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,N/A,43 EU,N/A,Perfecto
+283,Camiseta,Ralph Lauren,93,78,95,170,65,26,M,N/A,N/A,Perfecto
+284,Pantalón,Massimo Dutti,N/A,85,100,173,71,33,N/A,N/A,31x32,Perfecto
+285,Vestido,Pull&Bear,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+286,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,29,N/A,44 EU,N/A,Perfecto
+287,Camiseta,Levi's,100,87,102,178,77,35,L,N/A,N/A,Perfecto
+288,Pantalón,Nike,N/A,91,105,176,79,32,N/A,N/A,33x32,Demasiado ajustada
+289,Vestido,Women'secret,89,73,91,165,59,22,S,N/A,N/A,Perfecto
+290,Zapatillas,Vans,N/A,N/A,N/A,183,86,27,N/A,45 EU,N/A,Perfecto
+291,Camiseta,Springfield,96,82,98,174,69,28,L,N/A,N/A,Perfecto
+292,Pantalón,Zara,N/A,84,99,171,67,26,N/A,N/A,30x30,Perfecto
+293,Vestido,Mango,92,76,94,169,62,24,M,N/A,N/A,Perfecto
+294,Zapatillas,Guess,N/A,N/A,N/A,175,70,30,N/A,40 EU,N/A,Perfecto
+295,Camiseta,H&M,94,79,96,172,68,27,M,N/A,N/A,Perfecto
+296,Pantalón,Massimo Dutti,N/A,87,102,175,74,33,N/A,N/A,32x32,Perfecto
+297,Vestido,Zara,88,72,90,164,58,21,S,N/A,N/A,Perfecto
+298,Zapatillas,Adidas,N/A,N/A,N/A,180,82,29,N/A,43 EU,N/A,Perfecto
+299,Camiseta,Springfield,91,76,93,168,63,25,M,N/A,N/A,Demasiado ajustada
+300,Pantalón,Mango,N/A,90,104,177,78,34,M,N/A,N/A,Perfecto
+301,Camiseta,Uniqlo,102,90,105,182,83,37,XL,N/A,N/A,Perfecto
+302,Pantalón,Zara Men,N/A,92,106,179,81,39,34x32,N/A,34x32,Perfecto
+303,Vestido,Bimba y Lola,91,75,93,167,60,26,M,N/A,N/A,Perfecto
+304,Zapatillas,New Balance,N/A,N/A,N/A,176,73,33,40 EU,40 EU,N/A,Demasiado grande
+305,Camiseta,Tommy Hilfiger,98,84,100,175,72,40,L,N/A,N/A,Perfecto
+306,Pantalón,H&M Men,N/A,80,95,170,68,28,30x30,N/A,30x30,Demasiado ajustado
+307,Vestido,Desigual,95,78,97,172,64,31,L,N/A,N/A,Perfecto
+308,Zapatillas,Converse,N/A,N/A,N/A,188,95,29,46 EU,46 EU,N/A,Perfecto
+309,Camiseta,Adidas,87,70,88,164,57,21,S,N/A,N/A,Demasiado grande
+310,Pantalón,Pull&Bear Men,N/A,85,100,173,70,30,32x30,N/A,32x30,Perfecto
+311,Vestido,Bershka,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+312,Zapatillas,Puma,N/A,N/A,N/A,174,69,26,39 EU,39 EU,N/A,Perfecto
+313,Camiseta,Calvin Klein,105,92,108,185,88,42,XL,N/A,N/A,Perfecto
+314,Pantalón,Columbia,N/A,98,110,180,86,44,38x34,N/A,38x34,Perfecto
+315,Vestido,Stradivarius,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+316,Zapatillas,Reebok,N/A,N/A,N/A,177,75,32,41 EU,41 EU,N/A,Demasiado ajustado
+317,Camiseta,Nike,100,88,102,178,79,35,L,N/A,N/A,Perfecto
+318,Pantalón,Springfield Men,N/A,82,97,169,67,27,31x30,N/A,31x30,Demasiado grande
+319,Vestido,Oysho,92,76,94,171,63,25,M,N/A,N/A,Perfecto
+320,Zapatillas,Vans,N/A,N/A,N/A,186,90,28,45 EU,45 EU,N/A,Perfecto
+321,Camiseta,Zara,98,85,100,176,74,36,L,N/A,N/A,Perfecto
+322,Pantalón,Levi's,N/A,90,105,181,80,38,33x32,N/A,33x32,Perfecto
+323,Vestido,H&M,90,74,92,169,62,24,M,N/A,N/A,Perfecto
+324,Zapatillas,Nike,N/A,N/A,N/A,175,70,31,43 EU,43 EU,N/A,Demasiado ajustado
+325,Camiseta,Hugo Boss,103,92,108,184,87,43,XL,N/A,N/A,Perfecto
+326,Pantalón,Dockers,N/A,88,102,173,75,30,32x30,N/A,32x30,Demasiado grande
+327,Vestido,Mango,87,70,90,162,56,21,S,N/A,N/A,Perfecto
+328,Zapatillas,Clarks,N/A,N/A,N/A,180,78,48,42 EU,42 EU,N/A,Perfecto
+329,Camiseta,Springfield,95,80,97,172,69,27,L,N/A,N/A,Perfecto
+330,Pantalón,Adidas,N/A,94,109,178,82,34,34x32,N/A,34x32,Perfecto
+331,Vestido,Zara,93,77,95,170,64,26,M,N/A,N/A,Perfecto
+332,Zapatillas,Puma,N/A,N/A,N/A,182,85,29,44 EU,44 EU,N/A,Perfecto
+333,Camiseta,Ralph Lauren,89,73,91,166,59,37,S,N/A,N/A,Demasiado ajustada
+334,Pantalón,Massimo Dutti,N/A,86,101,177,76,40,33x30,N/A,33x30,Perfecto
+335,Vestido,Pull&Bear,91,75,93,168,61,23,M,N/A,N/A,Perfecto
+336,Zapatillas,Dr. Martens,N/A,N/A,N/A,176,72,30,40 EU,40 EU,N/A,Demasiado ajustado
+337,Camiseta,Levi's,101,89,104,179,80,35,XL,N/A,N/A,Perfecto
+338,Pantalón,Nike,N/A,81,96,170,66,28,30x32,N/A,30x32,Perfecto
+339,Vestido,Women'secret,85,68,88,160,55,20,S,N/A,N/A,Perfecto
+340,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,45 EU,45 EU,N/A,Perfecto
+341,Camiseta,Uniqlo,94,79,96,171,68,29,M,N/A,N/A,Perfecto
+342,Pantalón,Zara Men,N/A,85,100,173,70,36,31x32,N/A,31x32,Demasiado ajustado
+343,Vestido,Bimba y Lola,87,71,89,163,57,22,S,N/A,N/A,Perfecto
+344,Zapatillas,New Balance,N/A,N/A,N/A,180,78,34,42 EU,42 EU,N/A,Perfecto
+345,Camiseta,Tommy Hilfiger,100,86,102,177,76,41,L,N/A,N/A,Demasiado grande
+346,Pantalón,H&M Men,N/A,91,104,176,79,33,32x30,N/A,32x30,Perfecto
+347,Vestido,Desigual,89,74,91,166,60,25,M,N/A,N/A,Perfecto
+348,Zapatillas,Converse,N/A,N/A,N/A,183,88,30,44 EU,44 EU,N/A,Perfecto
+349,Camiseta,Adidas,96,82,98,174,71,28,L,N/A,N/A,Perfecto
+350,Pantalón,Pull&Bear Men,N/A,83,98,172,69,26,30x32,N/A,30x32,Perfecto
+351,Vestido,Bershka,92,76,94,169,63,24,M,N/A,N/A,Perfecto
+352,Zapatillas,Puma,N/A,N/A,N/A,171,65,29,39 EU,39 EU,N/A,Demasiado ajustado
+353,Camiseta,Calvin Klein,91,77,93,168,64,39,M,N/A,N/A,Demasiado grande
+354,Pantalón,Columbia,N/A,96,109,182,84,43,36x34,N/A,36x34,Perfecto
+355,Vestido,Stradivarius,88,72,90,165,58,21,S,N/A,N/A,Perfecto
+356,Zapatillas,Reebok,N/A,N/A,N/A,179,77,32,41 EU,41 EU,N/A,Perfecto
+357,Camiseta,Nike,104,91,106,183,86,37,XL,N/A,N/A,Perfecto
+358,Pantalón,Springfield Men,N/A,87,102,175,73,30,32x30,N/A,32x30,Perfecto
+359,Vestido,Oysho,94,78,96,173,65,26,L,N/A,N/A,Perfecto
+360,Zapatillas,Vans,N/A,N/A,N/A,181,82,28,43 EU,43 EU,N/A,Perfecto
+361,Camiseta,Zara,90,75,92,167,61,25,M,N/A,N/A,Perfecto
+362,Pantalón,Levi's,N/A,82,97,170,68,31,31x30,N/A,31x30,Demasiado ajustado
+363,Vestido,H&M,91,76,94,169,63,23,M,N/A,N/A,Perfecto
+364,Zapatillas,Nike,N/A,N/A,N/A,178,74,32,42 EU,42 EU,N/A,Perfecto
+365,Camiseta,Hugo Boss,99,86,101,177,78,36,L,N/A,N/A,Perfecto
+366,Pantalón,Dockers,N/A,93,107,184,85,39,34x32,N/A,34x32,Demasiado grande
+367,Vestido,Mango,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+368,Zapatillas,Clarks,N/A,N/A,N/A,174,68,47,39 EU,39 EU,N/A,Perfecto
+369,Camiseta,Springfield,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+370,Pantalón,Adidas,N/A,89,103,177,76,34,32x32,N/A,32x32,Demasiado ajustada
+371,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+372,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,43 EU,43 EU,N/A,Perfecto
+373,Camiseta,Ralph Lauren,93,78,95,170,65,26,M,N/A,N/A,Perfecto
+374,Pantalón,Massimo Dutti,N/A,85,100,173,71,33,31x32,N/A,31x32,Perfecto
+375,Vestido,Pull&Bear,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+376,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,29,44 EU,44 EU,N/A,Perfecto
+377,Camiseta,Levi's,100,87,102,178,77,35,L,N/A,N/A,Perfecto
+378,Pantalón,Nike,N/A,91,105,176,79,32,33x32,N/A,33x32,Demasiado ajustada
+379,Vestido,Women'secret,89,73,91,165,59,22,S,N/A,N/A,Perfecto
+380,Zapatillas,Vans,N/A,N/A,N/A,183,86,27,45 EU,45 EU,N/A,Perfecto
+381,Camiseta,Springfield,96,82,98,174,69,28,L,N/A,N/A,Perfecto
+382,Pantalón,Zara,N/A,84,99,171,67,26,30x30,N/A,30x30,Perfecto
+383,Vestido,Mango,92,76,94,169,62,24,M,N/A,N/A,Perfecto
+384,Zapatillas,Guess,N/A,N/A,N/A,175,70,30,40 EU,40 EU,N/A,Perfecto
+385,Camiseta,H&M,94,79,96,172,68,27,M,N/A,N/A,Perfecto
+386,Pantalón,Massimo Dutti,N/A,87,102,175,74,33,32x32,N/A,32x32,Perfecto
+387,Vestido,Zara,88,72,90,164,58,21,S,N/A,N/A,Perfecto
+388,Zapatillas,Adidas,N/A,N/A,N/A,180,82,29,43 EU,43 EU,N/A,Perfecto
+389,Camiseta,Springfield,91,76,93,168,63,25,M,N/A,N/A,Demasiado ajustada
+390,Pantalón,Mango,N/A,90,104,177,78,34,34x32,N/A,34x32,Perfecto
+391,Vestido,Uniqlo,97,80,98,173,67,29,L,N/A,N/A,Perfecto
+392,Zapatillas,New Balance,N/A,N/A,N/A,181,84,31,44 EU,44 EU,N/A,Perfecto
+393,Camiseta,Tommy Hilfiger,102,90,105,182,83,37,XL,N/A,N/A,Perfecto
+394,Pantalón,H&M Men,N/A,85,100,174,71,30,31x30,N/A,31x30,Perfecto
+395,Vestido,Desigual,89,74,91,166,60,25,M,N/A,N/A,Demasiado grande
+396,Zapatillas,Converse,N/A,N/A,N/A,179,77,29,42 EU,42 EU,N/A,Perfecto
+397,Camiseta,Adidas,95,81,97,171,68,28,M,N/A,N/A,Perfecto
+398,Pantalón,Pull&Bear Men,N/A,92,106,178,80,35,34x32,N/A,34x32,Perfecto
+399,Vestido,Bershka,88,72,90,165,58,22,S,N/A,N/A,Perfecto
+400,Zapatillas,Puma,N/A,N/A,N/A,176,73,31,40 EU,40 EU,N/A,Demasiado ajustado
+401,Camiseta,Calvin Klein,100,86,101,177,76,36,L,N/A,N/A,Perfecto
+402,Pantalón,Columbia,N/A,89,103,175,79,32,32x30,N/A,32x30,Perfecto
+403,Vestido,Stradivarius,90,75,92,168,61,25,M,N/A,N/A,Perfecto
+404,Zapatillas,Reebok,N/A,N/A,N/A,184,87,30,45 EU,45 EU,N/A,Perfecto
+405,Camiseta,Nike,93,78,95,170,66,26,M,N/A,N/A,Demasiado ajustada
+406,Pantalón,Springfield Men,N/A,83,98,172,69,29,31x32,N/A,31x32,Perfecto
+407,Vestido,Oysho,91,76,94,169,63,24,M,N/A,N/A,Perfecto
+408,Zapatillas,Vans,N/A,N/A,N/A,186,90,28,46 EU,46 EU,N/A,Perfecto
+409,Camiseta,Zara,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+410,Pantalón,Levi's,N/A,80,95,168,65,31,30x30,N/A,30x30,Demasiado grande
+411,Vestido,H&M,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+412,Zapatillas,Nike,N/A,N/A,N/A,173,69,26,39 EU,39 EU,N/A,Perfecto
+413,Camiseta,Hugo Boss,105,92,108,185,88,40,XL,N/A,N/A,Perfecto
+414,Pantalón,Dockers,N/A,98,110,180,86,37,36x34,N/A,36x34,Perfecto
+415,Vestido,Mango,94,78,96,171,64,28,L,N/A,N/A,Perfecto
+416,Zapatillas,Clarks,N/A,N/A,N/A,178,75,32,41 EU,41 EU,N/A,Demasiado ajustado
+417,Camiseta,Springfield,89,74,91,166,60,23,M,N/A,N/A,Perfecto
+418,Pantalón,Adidas,N/A,90,104,176,80,35,32x32,N/A,32x32,Perfecto
+419,Vestido,Zara,87,71,89,163,57,21,S,N/A,N/A,Perfecto
+420,Zapatillas,Puma,N/A,N/A,N/A,183,88,29,45 EU,45 EU,N/A,Perfecto
+421,Camiseta,Uniqlo,99,85,100,177,75,30,L,N/A,N/A,Perfecto
+422,Pantalón,Zara Men,N/A,93,107,180,82,36,34x32,N/A,34x32,Perfecto
+423,Vestido,Bimba y Lola,91,75,93,167,60,25,M,N/A,N/A,Perfecto
+424,Zapatillas,New Balance,N/A,N/A,N/A,175,71,28,40 EU,40 EU,N/A,Demasiado grande
+425,Camiseta,Tommy Hilfiger,94,79,96,171,68,33,M,N/A,N/A,Perfecto
+426,Pantalón,H&M Men,N/A,81,96,169,67,27,30x30,N/A,30x30,Demasiado ajustado
+427,Vestido,Desigual,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+428,Zapatillas,Converse,N/A,N/A,N/A,182,85,31,44 EU,44 EU,N/A,Perfecto
+429,Camiseta,Adidas,101,88,103,179,79,35,L,N/A,N/A,Demasiado grande
+430,Pantalón,Pull&Bear Men,N/A,87,102,173,70,29,32x30,N/A,32x30,Perfecto
+431,Vestido,Bershka,85,68,88,160,55,20,S,N/A,N/A,Perfecto
+432,Zapatillas,Puma,N/A,N/A,N/A,178,75,30,41 EU,41 EU,N/A,Demasiado ajustado
+433,Camiseta,Calvin Klein,104,91,106,183,86,41,XL,N/A,N/A,Perfecto
+434,Pantalón,Columbia,N/A,95,108,177,80,37,36x32,N/A,36x32,Perfecto
+435,Vestido,Stradivarius,88,72,90,165,58,22,S,N/A,N/A,Perfecto
+436,Zapatillas,Reebok,N/A,N/A,N/A,180,82,32,43 EU,43 EU,N/A,Perfecto
+437,Camiseta,Nike,92,77,94,170,65,28,M,N/A,N/A,Perfecto
+438,Pantalón,Springfield Men,N/A,84,99,171,67,26,31x32,N/A,31x32,Demasiado grande
+439,Vestido,Oysho,90,75,92,168,61,25,M,N/A,N/A,Perfecto
+440,Zapatillas,Vans,N/A,N/A,N/A,184,87,30,45 EU,45 EU,N/A,Perfecto
+441,Camiseta,Zara,96,82,98,174,69,27,L,N/A,N/A,Perfecto
+442,Pantalón,Levi's,N/A,89,103,176,76,34,32x32,N/A,32x32,Demasiado ajustado
+443,Vestido,H&M,93,77,95,170,64,24,M,N/A,N/A,Perfecto
+444,Zapatillas,Nike,N/A,N/A,N/A,175,70,29,40 EU,40 EU,N/A,Perfecto
+445,Camiseta,Hugo Boss,100,86,101,177,78,35,L,N/A,N/A,Perfecto
+446,Pantalón,Dockers,N/A,91,105,181,80,38,33x32,N/A,33x32,Perfecto
+447,Vestido,Mango,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+448,Zapatillas,Clarks,N/A,N/A,N/A,178,75,49,42 EU,42 EU,N/A,Perfecto
+449,Camiseta,Springfield,98,84,100,176,72,29,L,N/A,N/A,Perfecto
+450,Pantalón,Adidas,N/A,96,109,178,82,36,34x32,N/A,34x32,Perfecto
+451,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+452,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,43 EU,43 EU,N/A,Perfecto
+453,Camiseta,Ralph Lauren,91,76,93,169,63,25,M,N/A,N/A,Perfecto
+454,Pantalón,Massimo Dutti,N/A,83,98,172,69,32,31x30,N/A,31x30,Perfecto
+455,Vestido,Pull&Bear,89,73,91,166,60,23,S,N/A,N/A,Demasiado ajustada
+456,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,31,44 EU,44 EU,N/A,Perfecto
+457,Camiseta,Levi's,103,90,105,182,83,37,XL,N/A,N/A,Perfecto
+458,Pantalón,Nike,N/A,87,102,174,74,34,32x32,N/A,32x32,Perfecto
+459,Vestido,Women'secret,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+460,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,45 EU,45 EU,N/A,Perfecto
+461,Camiseta,Springfield,94,79,96,171,68,26,M,N/A,N/A,Perfecto
+462,Pantalón,Zara,N/A,85,100,173,70,33,31x32,N/A,31x32,Demasiado grande
+463,Vestido,Mango,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+464,Zapatillas,Guess,N/A,N/A,N/A,176,73,30,40 EU,40 EU,N/A,Perfecto
+465,Camiseta,H&M,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+466,Pantalón,Massimo Dutti,N/A,91,105,179,81,36,33x32,N/A,33x32,Perfecto
+467,Vestido,Zara,92,76,94,169,63,25,M,N/A,N/A,Perfecto
+468,Zapatillas,Adidas,N/A,N/A,N/A,184,87,32,46 EU,46 EU,N/A,Perfecto
+469,Camiseta,Springfield,88,72,90,165,58,22,S,N/A,N/A,Demasiado ajustada
+470,Pantalón,Mango,N/A,80,95,170,68,31,30x30,N/A,30x30,Perfecto
+471,Camiseta,Uniqlo,105,92,108,185,88,38,XL,N/A,N/A,Perfecto
+472,Pantalón,Zara Men,N/A,95,109,183,86,40,36x34,N/A,36x34,Perfecto
+473,Vestido,Bimba y Lola,93,77,95,170,66,27,M,N/A,N/A,Perfecto
+474,Zapatillas,New Balance,N/A,N/A,N/A,177,75,31,41 EU,41 EU,N/A,Demasiado ajustado
+475,Camiseta,Tommy Hilfiger,90,75,92,168,62,25,M,N/A,N/A,Perfecto
+476,Pantalón,H&M Men,N/A,82,97,169,67,28,30x32,N/A,30x32,Perfecto
+477,Vestido,Desigual,87,71,89,163,57,22,S,N/A,N/A,Perfecto
+478,Zapatillas,Converse,N/A,N/A,N/A,181,86,29,42 EU,42 EU,N/A,Perfecto
+479,Camiseta,Adidas,98,84,100,176,72,30,L,N/A,N/A,Perfecto
+480,Pantalón,Pull&Bear Men,N/A,89,103,175,79,34,32x32,N/A,32x32,Demasiado grande
+481,Vestido,Bershka,95,79,97,172,66,26,M,N/A,N/A,Perfecto
+482,Zapatillas,Puma,N/A,N/A,N/A,180,81,32,43 EU,43 EU,N/A,Perfecto
+483,Camiseta,Calvin Klein,92,78,94,170,65,28,M,N/A,N/A,Perfecto
+484,Pantalón,Columbia,N/A,85,100,173,71,33,31x32,N/A,31x32,Perfecto
+485,Vestido,Stradivarius,89,73,91,166,60,23,S,N/A,N/A,Demasiado ajustada
+486,Zapatillas,Reebok,N/A,N/A,N/A,183,88,31,44 EU,44 EU,N/A,Perfecto
+487,Camiseta,Nike,101,88,103,179,79,35,L,N/A,N/A,Perfecto
+488,Pantalón,Springfield Men,N/A,91,105,176,76,34,33x32,N/A,33x32,Perfecto
+489,Vestido,Oysho,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+490,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,45 EU,45 EU,N/A,Perfecto
+491,Camiseta,Zara,94,79,96,171,68,29,M,N/A,N/A,Perfecto
+492,Pantalón,Levi's,N/A,82,97,170,68,31,30x30,N/A,30x30,Demasiado grande
+493,Vestido,H&M,91,76,94,169,63,24,M,N/A,N/A,Perfecto
+494,Zapatillas,Nike,N/A,N/A,N/A,178,74,32,42 EU,42 EU,N/A,Perfecto
+495,Camiseta,Hugo Boss,99,86,101,177,78,36,L,N/A,N/A,Perfecto
+496,Pantalón,Dockers,N/A,93,107,184,85,39,34x32,N/A,34x32,Perfecto
+497,Vestido,Mango,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+498,Zapatillas,Clarks,N/A,N/A,N/A,174,68,47,39 EU,39 EU,N/A,Perfecto
+499,Camiseta,Springfield,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+500,Pantalón,Adidas,N/A,89,103,177,76,34,32x32,N/A,32x32,Demasiado ajustada
+501,Camiseta,Zara,96,82,98,174,69,27,L,N/A,N/A,Perfecto
+502,Pantalón,Levi's,N/A,89,103,176,76,34,32x32,N/A,N/A,Demasiado ajustado
+503,Vestido,H&M,93,77,95,170,64,24,M,N/A,N/A,Perfecto
+504,Zapatillas,Nike,N/A,N/A,N/A,175,70,29,40 EU,N/A,N/A,Perfecto
+505,Camiseta,Hugo Boss,100,86,101,177,78,35,L,N/A,N/A,Perfecto
+506,Pantalón,Dockers,N/A,91,105,181,80,38,33x32,N/A,N/A,Perfecto
+507,Vestido,Mango,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+508,Zapatillas,Clarks,N/A,N/A,N/A,178,75,49,42 EU,N/A,N/A,Perfecto
+509,Camiseta,Springfield,98,84,100,176,72,29,L,N/A,N/A,Perfecto
+510,Pantalón,Adidas,N/A,96,109,178,82,36,34x32,N/A,N/A,Perfecto
+511,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+512,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,43 EU,N/A,N/A,Perfecto
+513,Camiseta,Ralph Lauren,91,76,93,169,63,25,M,N/A,N/A,Perfecto
+514,Pantalón,Massimo Dutti,N/A,83,98,172,69,32,31x30,N/A,N/A,Perfecto
+515,Vestido,Pull&Bear,89,73,91,166,60,23,S,N/A,N/A,Demasiado ajustada
+516,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,31,44 EU,N/A,N/A,Perfecto
+517,Camiseta,Levi's,103,90,105,182,83,37,XL,N/A,N/A,Perfecto
+518,Pantalón,Nike,N/A,87,102,174,74,34,32x32,N/A,N/A,Perfecto
+519,Vestido,Women'secret,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+520,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,45 EU,N/A,N/A,Perfecto
+521,Camiseta,Springfield,94,79,96,171,68,26,M,N/A,N/A,Perfecto
+522,Pantalón,Zara,N/A,85,100,173,70,33,31x32,N/A,N/A,Demasiado grande
+523,Vestido,Mango,90,74,92,168,61,24,M,N/A,N/A,Perfecto
+524,Zapatillas,Guess,N/A,N/A,N/A,176,73,30,40 EU,N/A,N/A,Perfecto
+525,Camiseta,H&M,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+526,Pantalón,Massimo Dutti,N/A,91,105,179,81,36,33x32,N/A,N/A,Perfecto
+527,Vestido,Zara,92,76,94,169,63,25,M,N/A,N/A,Perfecto
+528,Zapatillas,Adidas,N/A,N/A,N/A,184,87,32,46 EU,N/A,N/A,Perfecto
+529,Camiseta,Springfield,88,72,90,165,58,22,S,N/A,N/A,Demasiado ajustada
+530,Pantalón,Mango,N/A,80,95,170,68,31,30x30,N/A,N/A,Perfecto
+531,Camiseta,Uniqlo,105,92,108,185,88,38,XL,N/A,N/A,Perfecto
+532,Pantalón,Zara Men,N/A,95,109,183,86,40,36x34,N/A,N/A,Perfecto
+533,Vestido,Bimba y Lola,93,77,95,170,66,27,M,N/A,N/A,Perfecto
+534,Zapatillas,New Balance,N/A,N/A,N/A,177,75,31,41 EU,N/A,N/A,Demasiado ajustado
+535,Camiseta,Tommy Hilfiger,90,75,92,168,62,25,M,N/A,N/A,Perfecto
+536,Pantalón,H&M Men,N/A,82,97,169,67,28,30x32,N/A,N/A,Perfecto
+537,Vestido,Desigual,87,71,89,163,57,22,S,N/A,N/A,Perfecto
+538,Zapatillas,Converse,N/A,N/A,N/A,181,86,29,42 EU,N/A,N/A,Perfecto
+539,Camiseta,Adidas,98,84,100,176,72,30,L,N/A,N/A,Perfecto
+540,Pantalón,Pull&Bear Men,N/A,89,103,175,79,34,32x32,N/A,N/A,Demasiado grande
+541,Vestido,Bershka,95,79,97,172,66,26,M,N/A,N/A,Perfecto
+542,Zapatillas,Puma,N/A,N/A,N/A,180,81,32,43 EU,N/A,N/A,Perfecto
+543,Camiseta,Calvin Klein,92,78,94,170,65,28,M,N/A,N/A,Perfecto
+544,Pantalón,Columbia,N/A,85,100,173,71,33,31x32,N/A,N/A,Perfecto
+545,Vestido,Stradivarius,89,73,91,166,60,23,S,N/A,N/A,Demasiado ajustada
+546,Zapatillas,Reebok,N/A,N/A,N/A,183,88,31,44 EU,N/A,N/A,Perfecto
+547,Camiseta,Nike,101,88,103,179,79,35,L,N/A,N/A,Perfecto
+548,Pantalón,Springfield Men,N/A,91,105,176,76,34,33x32,N/A,N/A,Perfecto
+549,Vestido,Oysho,86,70,89,162,56,21,S,N/A,N/A,Perfecto
+550,Zapatillas,Vans,N/A,N/A,N/A,185,89,27,45 EU,N/A,N/A,Perfecto
+551,Camiseta,Zara,94,79,96,171,68,29,M,N/A,N/A,Perfecto
+552,Pantalón,Levi's,N/A,82,97,170,68,31,30x30,N/A,N/A,Demasiado grande
+553,Vestido,H&M,91,76,94,169,63,24,M,N/A,N/A,Perfecto
+554,Zapatillas,Nike,N/A,N/A,N/A,178,74,32,42 EU,N/A,N/A,Perfecto
+555,Camiseta,Hugo Boss,99,86,101,177,78,36,L,N/A,N/A,Perfecto
+556,Pantalón,Dockers,N/A,93,107,184,85,39,34x32,N/A,N/A,Perfecto
+557,Vestido,Mango,86,69,89,161,54,20,S,N/A,N/A,Perfecto
+558,Zapatillas,Clarks,N/A,N/A,N/A,174,68,47,39 EU,N/A,N/A,Perfecto
+559,Camiseta,Springfield,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+560,Pantalón,Adidas,N/A,89,103,177,76,34,32x32,N/A,N/A,Demasiado ajustada
+561,Vestido,Zara,95,79,97,172,66,28,M,N/A,N/A,Perfecto
+562,Zapatillas,Puma,N/A,N/A,N/A,180,81,30,43 EU,N/A,N/A,Perfecto
+563,Camiseta,Ralph Lauren,93,78,95,170,65,26,M,N/A,N/A,Perfecto
+564,Pantalón,Massimo Dutti,N/A,85,100,173,71,33,31x32,N/A,N/A,Perfecto
+565,Vestido,Pull&Bear,87,71,89,163,57,21,S,N/A,N/A,Demasiado grande
+566,Zapatillas,Dr. Martens,N/A,N/A,N/A,181,83,29,44 EU,N/A,N/A,Perfecto
+567,Camiseta,Levi's,100,87,102,178,77,35,L,N/A,N/A,Perfecto
+568,Pantalón,Nike,N/A,91,105,176,79,32,33x32,N/A,N/A,Demasiado ajustada
+569,Vestido,Women'secret,89,73,91,165,59,22,S,N/A,N/A,Perfecto
+570,Zapatillas,Vans,N/A,N/A,N/A,183,86,27,45 EU,N/A,N/A,Perfecto
+571,Camiseta,Springfield,96,82,98,174,69,28,L,N/A,N/A,Perfecto
+572,Pantalón,Zara,N/A,84,99,171,67,26,30x30,N/A,N/A,Perfecto
+573,Vestido,Mango,92,76,94,169,62,24,M,N/A,N/A,Perfecto
+574,Zapatillas,Guess,N/A,N/A,N/A,175,70,30,40 EU,N/A,N/A,Perfecto
+575,Camiseta,H&M,94,79,96,172,68,27,M,N/A,N/A,Perfecto
+576,Pantalón,Massimo Dutti,N/A,87,102,175,74,33,32x32,N/A,N/A,Perfecto
+577,Vestido,Zara,88,72,90,164,58,21,S,N/A,N/A,Perfecto
+578,Zapatillas,Adidas,N/A,N/A,N/A,180,82,29,43 EU,N/A,N/A,Perfecto
+579,Camiseta,Springfield,91,76,93,168,63,25,M,N/A,N/A,Demasiado ajustada
+580,Pantalón,Mango,N/A,90,104,177,78,34,34x32,N/A,N/A,Perfecto
+581,Vestido,Uniqlo,97,80,98,173,67,29,L,N/A,N/A,Perfecto
+582,Zapatillas,New Balance,N/A,N/A,N/A,181,84,31,44 EU,N/A,N/A,Perfecto
+583,Camiseta,Tommy Hilfiger,102,90,105,182,83,37,XL,N/A,N/A,Perfecto
+584,Pantalón,H&M Men,N/A,85,100,174,71,30,31x30,N/A,N/A,Perfecto
+585,Vestido,Desigual,89,74,91,166,60,25,M,N/A,N/A,Demasiado grande
+586,Zapatillas,Converse,N/A,N/A,N/A,179,77,29,42 EU,N/A,N/A,Perfecto
+587,Camiseta,Adidas,95,81,97,171,68,28,M,N/A,N/A,Perfecto
+588,Pantalón,Pull&Bear Men,N/A,92,106,178,80,35,34x32,N/A,N/A,Perfecto
+589,Vestido,Bershka,88,72,90,165,58,22,S,N/A,N/A,Perfecto
+590,Zapatillas,Puma,N/A,N/A,N/A,176,73,31,40 EU,N/A,N/A,Demasiado ajustado
+591,Camiseta,Calvin Klein,100,86,101,177,76,36,L,N/A,N/A,Perfecto
+592,Pantalón,Columbia,N/A,89,103,175,79,32,32x30,N/A,N/A,Perfecto
+593,Vestido,Stradivarius,90,75,92,168,61,25,M,N/A,N/A,Perfecto
+594,Zapatillas,Reebok,N/A,N/A,N/A,184,87,30,45 EU,N/A,N/A,Perfecto
+595,Camiseta,Nike,93,78,95,170,66,26,M,N/A,N/A,Demasiado ajustada
+596,Pantalón,Springfield Men,N/A,83,98,172,69,29,31x32,N/A,N/A,Perfecto
+597,Vestido,Oysho,91,76,94,169,63,24,M,N/A,N/A,Perfecto
+598,Zapatillas,Vans,N/A,N/A,N/A,186,90,28,46 EU,N/A,N/A,Perfecto
+599,Camiseta,Zara,97,83,99,175,70,27,L,N/A,N/A,Perfecto
+600,Pantalón,Levi's,N/A,80,95,168,65,31,30x30,N/A,N/A,Demasiado grande
+601,Pantalón,Levi's,N/A,85,100,180,80,35,L,N/A,32,Demasiado grande
+602,Vestido,H&M,88,72,90,160,55,22,S,N/A,N/A,Demasiado ajustado
+603,Chaqueta,Nike,100,90,105,175,75,30,L,N/A,N/A,Demasiado grande
+604,Falda,Zara,N/A,68,92,165,58,25,S,N/A,N/A,Demasiado ajustado
+605,Camisa,Mango,96,82,98,182,72,40,L,N/A,N/A,Demasiado grande
+606,Jeans,Pull&Bear,N/A,75,95,170,68,29,M,N/A,30,Demasiado ajustado
+607,Abrigo,Zara,98,85,102,172,70,33,M,N/A,N/A,Demasiado grande
+608,Top,Stradivarius,85,65,88,158,52,20,XS,N/A,N/A,Demasiado ajustado
+609,Shorts,Decathlon,N/A,88,104,180,82,31,L,N/A,34,Demasiado grande
+610,Blusa,Bershka,89,70,93,163,57,24,S,N/A,N/A,Demasiado ajustado
+611,Vestido de Noche,Pronovias,90,75,95,168,60,30,M,N/A,N/A,Demasiado ajustado
+612,Cazadora,Columbia,110,100,115,190,90,36,XL,N/A,N/A,Demasiado grande
+613,Bikini,Calzedonia,80,60,85,160,50,23,XS,N/A,N/A,Demasiado ajustado
+614,Leggings,Gymshark,N/A,70,95,165,60,26,S,N/A,N/A,Demasiado ajustado
+615,Parka,The North Face,115,105,120,195,95,40,XL,N/A,N/A,Demasiado grande
+616,Mono,Asos,90,72,96,168,62,28,M,N/A,N/A,Demasiado ajustado
+617,Chaqueta Vaquera,Levi's,98,85,100,178,75,35,L,N/A,N/A,Demasiado grande
+618,Minifalda,Bershka,N/A,60,85,160,50,21,XS,N/A,N/A,Demasiado ajustado
+619,Bañador,Speedo,N/A,80,95,180,78,33,L,N/A,N/A,Demasiado ajustado
+620,Gabardina,Burberry,105,90,108,180,80,45,L,N/A,N/A,Demasiado grande
+621,Body,Intimissimi,86,68,90,162,56,26,S,N/A,N/A,Demasiado ajustado
+622,Top Crop,Shein,82,63,86,155,48,19,XS,N/A,N/A,Demasiado ajustado
+623,Chandal,Puma,100,88,104,182,78,30,L,N/A,N/A,Demasiado grande
+624,Polo de Rugby,Ralph Lauren,102,90,105,180,85,36,L,N/A,N/A,Demasiado grande
+625,Shorts de Jean,Pull&Bear,N/A,72,94,168,63,23,M,N/A,N/A,Demasiado ajustado
+626,Camiseta de Tirantes,Decathlon,90,75,92,170,65,25,M,N/A,N/A,Demasiado ajustado
+627,Top de bikini,Calzedonia,80,60,85,160,50,22,XS,N/A,N/A,Demasiado ajustado
+628,Abrigo de lana,Cremieux,110,95,110,185,90,48,XL,N/A,N/A,Demasiado grande
+629,Camiseta sin mangas,Zara,92,78,94,170,65,28,M,N/A,N/A,Demasiado ajustado
+630,Pantalones cargo,Carhartt,N/A,92,108,180,85,30,L,N/A,36,Demasiado grande
+631,Vestido de cóctel,Adolfo Dominguez,88,70,90,165,58,35,S,N/A,N/A,Demasiado ajustado
+632,Body de deporte,Nike,85,68,90,163,55,26,S,N/A,N/A,Demasiado ajustado
+633,Sudadera oversized,Bershka,105,95,110,172,70,23,XL,N/A,N/A,Demasiado grande
+634,Top lencero,Oysho,80,60,85,158,50,20,XS,N/A,N/A,Demasiado ajustado
+635,Falda Lápiz,Mango,N/A,70,90,165,58,33,S,N/A,N/A,Demasiado ajustado
+636,Chaqueta de cuero,Belstaff,105,90,108,180,80,40,L,N/A,N/A,Demasiado grande
+637,Pantalón de Chándal,Nike,N/A,90,105,185,85,28,L,N/A,N/A,Demasiado grande
+638,Vestido skater,Asos,88,70,90,162,56,24,S,N/A,N/A,Demasiado ajustado
+639,Abrigo de plumas,Columbia,115,100,115,190,95,45,XL,N/A,N/A,Demasiado grande
+640,Top de lentejuelas,Shein,82,63,86,155,48,22,XS,N/A,N/A,Demasiado ajustado
+641,Camisa vaquera,Levi's,98,85,100,180,78,31,L,N/A,N/A,Demasiado grande
+642,Falda de cuero,Zara,N/A,65,88,160,55,29,S,N/A,N/A,Demasiado ajustado
+643,Jeans skinny,Zara,N/A,72,90,165,58,26,S,N/A,28,Demasiado ajustado
+644,Abrigo de plumas,Columbia,115,100,115,190,95,45,XL,N/A,N/A,Demasiado grande
+645,Top de lentejuelas,Shein,82,63,86,155,48,22,XS,N/A,N/A,Demasiado ajustado
+647,Pantalón,Adidas,N/A,90,105,185,82,33,L,N/A,34,Demasiado grande
+648,Vestido,Zara,85,68,90,162,54,21,S,N/A,N/A,Demasiado ajustado
+649,Chaqueta,Puma,105,95,110,180,78,36,XL,N/A,N/A,Demasiado grande
+650,Falda,Pull&Bear,N/A,65,88,158,55,24,XS,N/A,N/A,Demasiado ajustado
+651,Camisa,Zara,92,78,94,170,65,29,M,N/A,N/A,Demasiado grande
+652,Jeans,Levi's,N/A,70,90,165,60,28,S,N/A,29,Demasiado ajustado
+653,Abrigo,H&M,100,85,100,175,70,34,L,N/A,N/A,Demasiado grande
+654,Top,Bershka,80,60,85,155,48,20,XS,N/A,N/A,Demasiado ajustado
+655,Shorts,Nike,N/A,82,98,175,75,32,L,N/A,32,Demasiado grande
+656,Blusa,Stradivarius,86,68,90,160,56,23,S,N/A,N/A,Demasiado ajustado
+657,Vestido de Fiesta,Pronovias,95,78,98,170,62,31,M,N/A,N/A,Demasiado ajustado
+658,Cazadora,The North Face,112,102,118,192,92,37,XL,N/A,N/A,Demasiado grande
+659,Bikini,Oysho,78,58,82,158,48,22,XS,N/A,N/A,Demasiado ajustado
+660,Leggings,Adidas,N/A,72,96,168,62,25,M,N/A,N/A,Demasiado ajustado
+661,Parka,Columbia,118,108,125,198,98,41,XXL,N/A,N/A,Demasiado grande
+662,Mono,Mango,92,75,98,170,64,29,M,N/A,N/A,Demasiado ajustado
+663,Chaqueta Vaquera,Diesel,100,88,103,180,78,36,L,N/A,N/A,Demasiado grande
+664,Minifalda,Stradivarius,N/A,62,86,162,52,21,XS,N/A,N/A,Demasiado ajustado
+665,Bañador,Nike,N/A,85,100,185,80,34,L,N/A,N/A,Demasiado grande
+666,Gabardina,Zara,108,92,110,178,82,46,L,N/A,N/A,Demasiado grande
+667,Body,Tezenis,84,66,88,160,54,27,S,N/A,N/A,Demasiado ajustado
+668,Top Crop,H&M,80,62,85,153,47,19,XS,N/A,N/A,Demasiado ajustado
+669,Chandal,Adidas,102,90,108,185,80,31,L,N/A,N/A,Demasiado grande
+670,Polo de Rugby,Tommy Hilfiger,105,92,108,182,88,37,XL,N/A,N/A,Demasiado grande
+671,Shorts de Jean,Mango,N/A,75,96,170,65,24,M,N/A,N/A,Demasiado ajustado
+672,Camiseta de Tirantes,Puma,92,78,94,172,67,26,M,N/A,N/A,Demasiado ajustado
+673,Top de bikini,Women'secret,82,62,86,162,52,23,S,N/A,N/A,Demasiado ajustado
+674,Abrigo de lana,Massimo Dutti,115,98,112,188,92,49,XL,N/A,N/A,Demasiado grande
+675,Camiseta sin mangas,Pull&Bear,88,72,90,168,60,29,S,N/A,N/A,Demasiado ajustado
+676,Pantalones cargo,Zara,N/A,95,110,182,88,31,L,N/A,38,Demasiado grande
+677,Vestido de cóctel,Mango,85,68,88,163,55,36,S,N/A,N/A,Demasiado ajustado
+678,Body de deporte,Puma,88,70,92,165,58,27,M,N/A,N/A,Demasiado ajustado
+679,Sudadera oversized,Nike,108,98,115,175,72,24,XL,N/A,N/A,Demasiado grande
+680,Top lencero,Intimissimi,78,58,82,155,47,21,XS,N/A,N/A,Demasiado ajustado
+681,Falda Lápiz,Zara,N/A,68,90,163,56,34,S,N/A,N/A,Demasiado ajustado
+682,Chaqueta de cuero,Zara,100,85,100,175,75,42,L,N/A,N/A,Demasiado grande
+683,Pantalón de Chándal,Adidas,N/A,92,108,188,88,29,XL,N/A,N/A,Demasiado grande
+684,Vestido skater,Stradivarius,86,68,90,160,54,25,S,N/A,N/A,Demasiado ajustado
+685,Abrigo de plumas,The North Face,120,105,122,195,100,46,XXL,N/A,N/A,Demasiado grande
+686,Top de lentejuelas,Bershka,80,62,85,153,46,23,XS,N/A,N/A,Demasiado ajustado
+687,Camisa vaquera,Wrangler,100,88,103,182,80,32,L,N/A,N/A,Demasiado grande
+688,Falda de cuero,H&M,N/A,62,86,158,52,30,XS,N/A,N/A,Demasiado ajustado
+689,Jeans skinny,Pull&Bear,N/A,70,88,163,56,27,S,N/A,28,Demasiado ajustado
+690,Abrigo de plumas,Geox,118,102,118,192,95,47,XL,N/A,N/A,Demasiado grande
+691,Top de lentejuelas,Asos,84,65,88,157,49,24,XS,N/A,N/A,Demasiado ajustado
+692,Camiseta,Nike,95,80,98,172,70,30,M,N/A,N/A,Demasiado grande
+693,Pantalón,Zara,N/A,78,96,170,68,26,M,N/A,30,Demasiado ajustado
+694,Vestido,Mango,90,75,95,165,60,28,M,N/A,N/A,Demasiado ajustado
+695,Chaqueta,Columbia,102,90,105,178,75,32,L,N/A,N/A,Demasiado grande
+696,Falda,H&M,N/A,70,92,163,58,25,S,N/A,N/A,Demasiado ajustado
+697,Camisa,Levi's,98,85,100,180,78,38,L,N/A,N/A,Demasiado grande
+698,Jeans,Zara,N/A,75,95,168,65,30,M,N/A,31,Demasiado ajustado
+699,Abrigo,Massimo Dutti,105,90,108,175,72,35,L,N/A,N/A,Demasiado grande
+700,Top,Stradivarius,86,68,90,160,55,22,S,N/A,N/A,Demasiado ajustado
+701,Shorts,Decathlon,N/A,88,104,180,82,31,L,N/A,34,Demasiado grande
+702,Blusa,Bershka,89,70,93,163,57,24,S,N/A,N/A,Demasiado ajustado
+703,Vestido de Noche,Pronovias,90,75,95,168,60,30,M,N/A,N/A,Demasiado ajustado
+704,Cazadora,Columbia,110,100,115,190,90,36,XL,N/A,N/A,Demasiado grande
+705,Bikini,Calzedonia,80,60,85,160,50,23,XS,N/A,N/A,Demasiado ajustado
+706,Leggings,Gymshark,N/A,70,95,165,60,26,S,N/A,N/A,Demasiado ajustado
+707,Parka,The North Face,115,105,120,195,95,40,XL,N/A,N/A,Demasiado grande
+708,Mono,Asos,90,72,96,168,62,28,M,N/A,N/A,Demasiado ajustado
+709,Chaqueta Vaquera,Levi's,98,85,100,178,75,35,L,N/A,N/A,Demasiado grande
+710,Minifalda,Bershka,N/A,60,85,160,50,21,XS,N/A,N/A,Demasiado ajustado
+711,Bañador,Speedo,N/A,80,95,180,78,33,L,N/A,N/A,Demasiado ajustado
+712,Gabardina,Burberry,105,90,108,180,80,45,L,N/A,N/A,Demasiado grande
+713,Body,Intimissimi,86,68,90,162,56,26,S,N/A,N/A,Demasiado ajustado
+714,Top Crop,Shein,82,63,86,155,48,19,XS,N/A,N/A,Demasiado ajustado
+715,Chandal,Puma,100,88,104,182,78,30,L,N/A,N/A,Demasiado grande
+716,Polo de Rugby,Ralph Lauren,102,90,105,180,85,36,L,N/A,N/A,Demasiado grande
+717,Shorts de Jean,Pull&Bear,N/A,72,94,168,63,23,M,N/A,N/A,Demasiado ajustado
+718,Camiseta de Tirantes,Decathlon,90,75,92,170,65,25,M,N/A,N/A,Demasiado ajustado
+719,Top de bikini,Calzedonia,80,60,85,160,50,22,XS,N/A,N/A,Demasiado ajustado
+720,Abrigo de lana,Cremieux,110,95,110,185,90,48,XL,N/A,N/A,Demasiado grande
+721,Camiseta sin mangas,Zara,92,78,94,170,65,28,M,N/A,N/A,Demasiado ajustado
+722,Pantalones cargo,Carhartt,N/A,92,108,180,85,30,L,N/A,36,Demasiado grande
+723,Vestido de cóctel,Adolfo Dominguez,88,70,90,165,58,35,S,N/A,N/A,Demasiado ajustado
+724,Body de deporte,Nike,85,68,90,163,55,26,S,N/A,N/A,Demasiado ajustado
+725,Sudadera oversized,Bershka,105,95,110,172,70,23,XL,N/A,N/A,Demasiado grande
+726,Top lencero,Oysho,80,60,85,158,50,21,XS,N/A,N/A,Demasiado ajustado
+727,Falda Lápiz,Mango,N/A,70,90,165,58,33,S,N/A,N/A,Demasiado ajustado
+728,Chaqueta de cuero,Belstaff,105,90,108,180,80,40,L,N/A,N/A,Demasiado grande
+729,Pantalón de Chándal,Nike,N/A,90,105,185,85,28,L,N/A,N/A,Demasiado grande
+730,Vestido skater,Asos,88,70,90,162,56,24,S,N/A,N/A,Demasiado ajustado
+731,Abrigo de plumas,Columbia,115,100,115,190,95,45,XL,N/A,N/A,Demasiado grande
+732,Top de lentejuelas,Shein,82,63,86,155,48,22,XS,N/A,N/A,Demasiado ajustado
+733,Camisa vaquera,Levi's,98,85,100,180,78,31,L,N/A,N/A,Demasiado grande
+734,Falda de cuero,Zara,N/A,65,88,160,55,29,S,N/A,N/A,Demasiado ajustado
+735,Jeans skinny,Zara,N/A,72,90,165,58,26,S,N/A,28,Demasiado ajustado
+736,Abrigo de plumas,Columbia,115,100,115,190,95,45,XL,N/A,N/A,Demasiado grande
+737,Top de lentejuelas,Shein,82,63,86,155,48,22,XS,N/A,N/A,Demasiado ajustado
+738,Camiseta,Mango,90,75,95,170,68,27,M,N/A,N/A,Demasiado ajustado
+739,Pantalón,Adidas,N/A,90,105,185,82,33,L,N/A,34,Demasiado grande
+740,Vestido,Zara,85,68,90,162,54,21,S,N/A,N/A,Demasiado ajustado
+741,Chaqueta,Puma,105,95,110,180,78,36,XL,N/A,N/A,Demasiado grande
+742,Falda,Pull&Bear,N/A,65,88,158,55,24,XS,N/A,N/A,Demasiado ajustado
+743,Camisa,Zara,92,78,94,170,65,29,M,N/A,N/A,Demasiado grande
+744,Jeans,Levi's,N/A,70,90,165,60,28,S,N/A,29,Demasiado ajustado
+745,Abrigo,H&M,100,85,100,175,70,34,L,N/A,N/A,Demasiado grande
+746,Top,Bershka,80,60,85,155,48,20,XS,N/A,N/A,Demasiado ajustado
+747,Shorts,Nike,N/A,82,98,175,75,32,L,N/A,32,Demasiado grande
+748,Blusa,Stradivarius,86,68,90,160,56,23,S,N/A,N/A,Demasiado ajustado
+749,Vestido de Fiesta,Pronovias,95,78,98,170,62,31,M,N/A,N/A,Demasiado ajustado
+750,Cazadora,The North Face,112,102,118,192,92,37,XL,N/A,N/A,Demasiado grande
+751,Bikini,Oysho,78,58,82,158,48,22,XS,N/A,N/A,Demasiado ajustado
+752,Leggings,Adidas,N/A,72,96,168,62,25,M,N/A,N/A,Demasiado ajustado
+753,Parka,Columbia,118,108,125,198,98,41,XXL,N/A,N/A,Demasiado grande
+754,Mono,Mango,92,75,98,170,64,29,M,N/A,N/A,Demasiado ajustado
+755,Chaqueta Vaquera,Diesel,100,88,103,180,78,36,L,N/A,N/A,Demasiado grande
+756,Minifalda,Stradivarius,N/A,62,86,162,52,21,XS,N/A,N/A,Demasiado ajustado
+757,Bañador,Nike,N/A,85,100,185,80,34,L,N/A,N/A,Demasiado grande
+758,Gabardina,Zara,108,92,110,178,82,46,L,N/A,N/A,Demasiado grande
+759,Body,Tezenis,84,66,88,160,54,27,S,N/A,N/A,Demasiado ajustado
+760,Top Crop,H&M,80,62,85,153,47,19,XS,N/A,N/A,Demasiado ajustado
+761,Chandal,Adidas,102,90,108,185,80,31,L,N/A,N/A,Demasiado grande
+762,Polo de Rugby,Tommy Hilfiger,105,92,108,182,88,37,XL,N/A,N/A,Demasiado grande
+763,Shorts de Jean,Mango,N/A,75,96,170,65,24,M,N/A,N/A,Demasiado ajustado
+764,Camiseta de Tirantes,Puma,92,78,94,172,67,26,M,N/A,N/A,Demasiado ajustado
+765,Top de bikini,Women'secret,82,62,86,162,52,23,S,N/A,N/A,Demasiado ajustado
+766,Abrigo de lana,Massimo Dutti,115,98,112,188,92,49,XL,N/A,N/A,Demasiado grande
+767,Camiseta sin mangas,Pull&Bear,88,72,90,168,60,29,S,N/A,N/A,Demasiado ajustado
+768,Pantalones cargo,Zara,N/A,95,110,182,88,31,L,N/A,38,Demasiado grande
+769,Vestido de cóctel,Mango,85,68,88,163,55,36,S,N/A,N/A,Demasiado ajustado
+770,Body de deporte,Puma,88,70,92,165,58,27,M,N/A,N/A,Demasiado ajustado
+771,Sudadera oversized,Nike,108,98,115,175,72,24,XL,N/A,N/A,Demasiado grande
+772,Top lencero,Intimissimi,78,58,82,155,47,21,XS,N/A,N/A,Demasiado ajustado
+773,Falda Lápiz,Zara,N/A,68,90,163,56,34,S,N/A,N/A,Demasiado ajustado
+774,Chaqueta de cuero,Zara,100,85,100,175,75,42,L,N/A,N/A,Demasiado grande
+775,Pantalón de Chándal,Adidas,N/A,92,108,188,88,29,XL,N/A,N/A,Demasiado grande
+776,Vestido skater,Stradivarius,86,68,90,160,54,25,S,N/A,N/A,Demasiado ajustado
+777,Abrigo de plumas,The North Face,120,105,122,195,100,46,XXL,N/A,N/A,Demasiado grande
+778,Top de lentejuelas,Bershka,80,62,85,153,46,23,XS,N/A,N/A,Demasiado ajustado
+779,Camisa vaquera,Wrangler,100,88,103,182,80,32,L,N/A,N/A,Demasiado grande
+780,Falda de cuero,H&M,N/A,62,86,158,52,30,XS,N/A,N/A,Demasiado ajustado
+781,Jeans skinny,Pull&Bear,N/A,70,88,163,56,27,S,N/A,28,Demasiado ajustado
+782,Abrigo de plumas,Geox,118,102,118,192,95,47,XL,N/A,N/A,Demasiado grande
+783,Top de lentejuelas,Asos,84,65,88,157,49,24,XS,N/A,N/A,Demasiado ajustado
+784,Camiseta,Nike,95,80,98,172,70,30,M,N/A,N/A,Demasiado grande
+785,Pantalón,Zara,N/A,78,96,170,68,26,M,N/A,30,Demasiado ajustado
+786,Vestido,Mango,90,75,95,165,60,28,M,N/A,N/A,Demasiado ajustado
+787,Chaqueta,Columbia,102,90,105,178,75,32,L,N/A,N/A,Demasiado grande
+788,Falda,H&M,N/A,70,92,163,58,25,S,N/A,N/A,Demasiado ajustado
+789,Camisa,Levi's,98,85,100,180,78,38,L,N/A,N/A,Demasiado grande
+790,Jeans,Zara,N/A,75,95,168,65,30,M,N/A,31,Demasiado ajustado
+791,Abrigo,Massimo Dutti,105,90,108,175,72,35,L,N/A,N/A,Demasiado grande
+792,Top,Stradivarius,86,68,90,160,55,22,S,N/A,N/A,Demasiado ajustado
+793,Shorts,Decathlon,N/A,88,104,180,82,31,L,N/A,34,Demasiado grande
+794,Blusa,Bershka,89,70,93,163,57,24,S,N/A,N/A,Demasiado ajustado
+795,Vestido de Noche,Pronovias,90,75,95,168,60,30,M,N/A,N/A,Demasiado ajustado
+796,Cazadora,Columbia,110,100,115,190,90,36,XL,N/A,N/A,Demasiado grande
+797,Bikini,Calzedonia,80,60,85,160,50,23,XS,N/A,N/A,Demasiado ajustado
+798,Leggings,Gymshark,N/A,70,95,165,60,26,S,N/A,N/A,Demasiado ajustado
+799,Parka,The North Face,115,105,120,195,95,40,XL,N/A,N/A,Demasiado grande
+800,Mono,Asos,90,72,96,168,62,28,M,N/A,N/A,Demasiado ajustado
+801,Chaqueta Vaquera,Lee,95,80,95,175,70,29,M,N/A,N/A,Demasiado grande
+802,Minifalda,Zara,N/A,60,85,158,50,20,XS,N/A,N/A,Demasiado ajustado
+803,Bañador,Adidas,N/A,82,98,182,78,34,L,N/A,N/A,Demasiado grande
+804,Gabardina,Mango,100,85,102,170,68,42,M,N/A,N/A,Demasiado grande
+805,Body,Tezenis,82,63,86,155,50,25,XS,N/A,N/A,Demasiado ajustado
+806,Top Crop,Pull&Bear,78,58,82,150,45,18,XS,N/A,N/A,Demasiado ajustado
+807,Chandal,Under Armour,105,92,108,188,85,30,XL,N/A,N/A,Demasiado grande
+808,Polo de Rugby,Fred Perry,98,85,100,178,75,37,L,N/A,N/A,Demasiado grande
+809,Shorts de Jean,H&M,N/A,70,92,165,60,23,S,N/A,N/A,Demasiado ajustado
+110,Camiseta de Tirantes,Decathlon,88,72,90,168,62,26,M,N/A,N/A,Demasiado ajustado
+811,Top de bikini,Women'secret,75,55,80,155,48,22,XS,N/A,N/A,Demasiado ajustado
+812,Abrigo de lana,Benetton,108,95,108,182,88,48,XL,N/A,N/A,Demasiado grande
+813,Camiseta sin mangas,Stradivarius,85,68,90,160,55,29,S,N/A,N/A,Demasiado ajustado
+814,Pantalones cargo,Bershka,N/A,90,105,178,85,32,L,N/A,36,Demasiado grande
+815,Vestido de cóctel,Cortefiel,82,65,88,158,52,35,S,N/A,N/A,Demasiado ajustado
+816,Body de deporte,Under Armour,90,72,95,168,60,27,M,N/A,N/A,Demasiado ajustado
+817,Sudadera oversized,Zara,110,100,115,180,75,24,XL,N/A,N/A,Demasiado grande
+818,Top lencero,Yamamay,75,58,82,153,45,20,XS,N/A,N/A,Demasiado ajustado
+819,Falda Lápiz,Adolfo Dominguez,N/A,72,94,165,60,34,M,N/A,N/A,Demasiado ajustado
+820,Chaqueta de cuero,Pull&Bear,95,80,95,170,70,40,L,N/A,N/A,Demasiado grande
+821,Pantalón de Chándal,Reebok,N/A,95,110,190,90,29,XL,N/A,N/A,Demasiado grande
+822,Vestido skater,H&M,85,68,90,160,55,25,S,N/A,N/A,Demasiado ajustado
+823,Abrigo de plumas,Decathlon,110,98,112,185,92,46,XL,N/A,N/A,Demasiado grande
+824,Top de lentejuelas,Primark,78,60,82,150,45,23,XS,N/A,N/A,Demasiado ajustado
+825,Camisa vaquera,G-Star Raw,98,85,100,178,75,32,L,N/A,N/A,Demasiado grande
+826,Falda de cuero,Mango,N/A,62,86,158,52,29,XS,N/A,N/A,Demasiado ajustado
+827,Jeans skinny,Bershka,N/A,68,85,162,55,27,S,N/A,27,Demasiado ajustado
+828,Abrigo de plumas,Nike,115,100,115,190,95,45,XL,N/A,N/A,Demasiado grande
+829,Top de lentejuelas,Zara,80,60,85,155,48,22,XS,N/A,N/A,Demasiado ajustado
+830,Camiseta,Puma,92,78,94,170,65,28,M,N/A,N/A,Demasiado grande
+831,Pantalón,Esprit,N/A,80,95,175,70,30,L,N/A,31,Demasiado ajustado
+832,Vestido,Springfield,88,72,90,160,55,24,S,N/A,N/A,Demasiado ajustado
+833,Chaqueta,Columbia,100,90,105,175,75,32,L,N/A,N/A,Demasiado grande
+834,Falda,Stradivarius,N/A,65,88,162,58,26,S,N/A,N/A,Demasiado ajustado
+835,Camisa,Ralph Lauren,96,82,98,182,72,39,L,N/A,N/A,Demasiado grande
+836,Jeans,Tommy Hilfiger,N/A,75,95,170,68,30,M,N/A,30,Demasiado ajustado
+837,Abrigo,G-Star Raw,98,85,102,172,70,35,M,N/A,N/A,Demasiado grande
+838,Top,Oysho,85,65,88,158,52,21,XS,N/A,N/A,Demasiado ajustado
+839,Shorts,Gymshark,N/A,88,104,180,82,33,L,N/A,34,Demasiado grande
+840,Blusa,Mango,89,70,93,163,57,25,S,N/A,N/A,Demasiado ajustado
+841,Vestido de Noche,Asos,90,75,95,168,60,31,M,N/A,N/A,Demasiado ajustado
+842,Cazadora,Jack & Jones,110,100,115,190,90,38,XL,N/A,N/A,Demasiado grande
+843,Bikini,Women'secret,80,60,85,160,50,24,XS,N/A,N/A,Demasiado ajustado
+844,Leggings,Decathlon,N/A,70,95,165,60,27,S,N/A,N/A,Demasiado ajustado
+845,Parka,Canada Goose,115,105,120,195,95,42,XL,N/A,N/A,Demasiado grande
+846,Mono,Zara,90,72,96,168,62,29,M,N/A,N/A,Demasiado ajustado
+847,Chaqueta Vaquera,Calvin Klein,98,85,100,178,75,36,L,N/A,N/A,Demasiado grande
+848,Minifalda,H&M,N/A,60,85,160,50,22,XS,N/A,N/A,Demasiado ajustado
+849,Bañador,Speedo,N/A,80,95,180,78,34,L,N/A,N/A,Demasiado ajustado
+850,Gabardina,Cortefiel,105,90,108,180,80,47,L,N/A,N/A,Demasiado grande
+851,Body,Etam,86,68,90,162,56,27,S,N/A,N/A,Demasiado ajustado
+852,Top Crop,Pull&Bear,82,63,86,155,48,20,XS,N/A,N/A,Demasiado ajustado
+853,Chandal,Adidas,100,88,104,182,78,31,L,N/A,N/A,Demasiado grande
+854,Polo de Rugby,Polo Ralph Lauren,102,90,105,180,85,37,L,N/A,N/A,Demasiado grande
+855,Shorts de Jean,Mango,N/A,72,94,168,63,24,M,N/A,N/A,Demasiado ajustado
+856,Camiseta de Tirantes,Nike,90,75,92,170,65,26,M,N/A,N/A,Demasiado ajustado
+857,Top de bikini,Calzedonia,80,60,85,160,50,23,XS,N/A,N/A,Demasiado ajustado
+858,Abrigo de lana,Hugo Boss,110,95,110,185,90,49,XL,N/A,N/A,Demasiado grande
+859,Camiseta sin mangas,Bershka,92,78,94,170,65,29,M,N/A,N/A,Demasiado ajustado
+860,Pantalones cargo,Springfield,N/A,92,108,180,85,32,L,N/A,36,Demasiado grande
+861,Vestido de cóctel,Zara,88,70,90,165,58,36,S,N/A,N/A,Demasiado ajustado
+862,Body de deporte,Gymshark,85,68,90,163,55,27,S,N/A,N/A,Demasiado ajustado
+863,Sudadera oversized,Puma,105,95,110,172,70,25,XL,N/A,N/A,Demasiado grande
+864,Top lencero,Tezenis,80,60,85,158,50,22,XS,N/A,N/A,Demasiado ajustado
+865,Falda Lápiz,Stradivarius,N/A,70,90,165,58,35,S,N/A,N/A,Demasiado ajustado
+866,Chaqueta de cuero,Mango,105,90,108,180,80,41,L,N/A,N/A,Demasiado grande
+867,Pantalón de Chándal,Reebok,N/A,90,105,185,85,30,L,N/A,N/A,Demasiado grande
+868,Vestido skater,Pull&Bear,88,70,90,162,56,26,S,N/A,N/A,Demasiado ajustado
+869,Abrigo de plumas,Guess,115,100,115,190,95,46,XL,N/A,N/A,Demasiado grande
+870,Top de lentejuelas,Bershka,82,63,86,155,48,23,XS,N/A,N/A,Demasiado ajustado
+871,Camisa vaquera,Levi's,98,85,100,180,78,32,L,N/A,N/A,Demasiado grande
+872,Falda de cuero,Stradivarius,N/A,65,88,160,55,30,S,N/A,N/A,Demasiado ajustado
+873,Jeans skinny,H&M,N/A,72,90,165,58,27,S,N/A,28,Demasiado ajustado
+874,Abrigo de plumas,Zara,115,100,115,190,95,46,XL,N/A,N/A,Demasiado grande
+875,Top de lentejuelas,Asos,82,63,86,155,48,23,XS,N/A,N/A,Demasiado ajustado
+876,Camiseta,Bershka,90,75,95,170,68,28,M,N/A,N/A,Demasiado ajustado
+877,Pantalón,Zara,N/A,90,105,185,82,34,L,N/A,34,Demasiado grande
+878,Vestido,Stradivarius,85,68,90,162,54,22,S,N/A,N/A,Demasiado ajustado
+879,Chaqueta,Adidas,105,95,110,180,78,37,XL,N/A,N/A,Demasiado grande
+880,Falda,Mango,N/A,65,88,158,55,25,XS,N/A,N/A,Demasiado ajustado
+881,Camisa,Pull&Bear,92,78,94,170,65,30,M,N/A,N/A,Demasiado grande
+882,Jeans,Diesel,N/A,70,90,165,60,29,S,N/A,29,Demasiado ajustado
+883,Abrigo,Benetton,100,85,100,175,70,35,L,N/A,N/A,Demasiado grande
+884,Top,Zara,80,60,85,155,48,21,XS,N/A,N/A,Demasiado ajustado
+885,Shorts,Puma,N/A,82,98,175,75,33,L,N/A,32,Demasiado grande
+886,Blusa,H&M,86,68,90,160,56,24,S,N/A,N/A,Demasiado ajustado
+887,Vestido de Fiesta,Asos,95,78,98,170,62,32,M,N/A,N/A,Demasiado ajustado
+888,Cazadora,Columbia,112,102,118,192,92,38,XL,N/A,N/A,Demasiado grande
+889,Bikini,Tezenis,78,58,82,158,48,23,XS,N/A,N/A,Demasiado ajustado
+890,Leggings,Lululemon,N/A,72,96,168,62,26,M,N/A,N/A,Demasiado ajustado
+891,Parka,The North Face,118,108,125,198,98,42,XXL,N/A,N/A,Demasiado grande
+892,Mono,Bershka,92,75,98,170,64,30,M,N/A,N/A,Demasiado ajustado
+893,Chaqueta Vaquera,Guess,100,88,103,180,78,37,L,N/A,N/A,Demasiado grande
+894,Minifalda,Zara,N/A,62,86,162,52,22,XS,N/A,N/A,Demasiado ajustado
+895,Bañador,Adidas,N/A,85,100,185,80,35,L,N/A,N/A,Demasiado grande
+896,Gabardina,Mango,108,92,110,178,82,47,L,N/A,N/A,Demasiado grande
+897,Body,Intimissimi,84,66,88,160,54,28,S,N/A,N/A,Demasiado ajustado
+898,Top Crop,H&M,80,62,85,153,47,20,XS,N/A,N/A,Demasiado ajustado
+899,Chandal,Under Armour,102,90,108,185,80,32,L,N/A,N/A,Demasiado grande
+900,Polo de Rugby,Lacoste,105,92,108,182,88,38,XL,N/A,N/A,Demasiado grande
